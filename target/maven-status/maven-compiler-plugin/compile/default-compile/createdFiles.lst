@@ -1,0 +1,7 @@
+au/com/news/recipefinder/model/Fridge.class
+au/com/news/recipefinder/RecipeFinder.class
+au/com/news/recipefinder/model/Ingredients.class
+au/com/news/recipefinder/util/GenUtil.class
+au/com/news/recipefinder/model/Recipe.class
+au/com/news/recipefinder/exception/RecipeFinderException.class
+au/com/news/recipefinder/model/Unit.class
